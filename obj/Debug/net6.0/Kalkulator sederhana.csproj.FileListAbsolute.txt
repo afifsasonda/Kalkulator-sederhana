@@ -1,0 +1,15 @@
+D:\Semester 5 Skilvul\Materi Kuliah\Tugas\Tugas Skilvul Game\Kalkulator sederhana\bin\Debug\net6.0\Kalkulator sederhana.exe
+D:\Semester 5 Skilvul\Materi Kuliah\Tugas\Tugas Skilvul Game\Kalkulator sederhana\bin\Debug\net6.0\Kalkulator sederhana.deps.json
+D:\Semester 5 Skilvul\Materi Kuliah\Tugas\Tugas Skilvul Game\Kalkulator sederhana\bin\Debug\net6.0\Kalkulator sederhana.runtimeconfig.json
+D:\Semester 5 Skilvul\Materi Kuliah\Tugas\Tugas Skilvul Game\Kalkulator sederhana\bin\Debug\net6.0\Kalkulator sederhana.dll
+D:\Semester 5 Skilvul\Materi Kuliah\Tugas\Tugas Skilvul Game\Kalkulator sederhana\bin\Debug\net6.0\Kalkulator sederhana.pdb
+D:\Semester 5 Skilvul\Materi Kuliah\Tugas\Tugas Skilvul Game\Kalkulator sederhana\obj\Debug\net6.0\Kalkulator sederhana.csproj.AssemblyReference.cache
+D:\Semester 5 Skilvul\Materi Kuliah\Tugas\Tugas Skilvul Game\Kalkulator sederhana\obj\Debug\net6.0\Kalkulator sederhana.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester 5 Skilvul\Materi Kuliah\Tugas\Tugas Skilvul Game\Kalkulator sederhana\obj\Debug\net6.0\Kalkulator sederhana.AssemblyInfoInputs.cache
+D:\Semester 5 Skilvul\Materi Kuliah\Tugas\Tugas Skilvul Game\Kalkulator sederhana\obj\Debug\net6.0\Kalkulator sederhana.AssemblyInfo.cs
+D:\Semester 5 Skilvul\Materi Kuliah\Tugas\Tugas Skilvul Game\Kalkulator sederhana\obj\Debug\net6.0\Kalkulator sederhana.csproj.CoreCompileInputs.cache
+D:\Semester 5 Skilvul\Materi Kuliah\Tugas\Tugas Skilvul Game\Kalkulator sederhana\obj\Debug\net6.0\Kalkulator sederhana.dll
+D:\Semester 5 Skilvul\Materi Kuliah\Tugas\Tugas Skilvul Game\Kalkulator sederhana\obj\Debug\net6.0\refint\Kalkulator sederhana.dll
+D:\Semester 5 Skilvul\Materi Kuliah\Tugas\Tugas Skilvul Game\Kalkulator sederhana\obj\Debug\net6.0\Kalkulator sederhana.pdb
+D:\Semester 5 Skilvul\Materi Kuliah\Tugas\Tugas Skilvul Game\Kalkulator sederhana\obj\Debug\net6.0\Kalkulator sederhana.genruntimeconfig.cache
+D:\Semester 5 Skilvul\Materi Kuliah\Tugas\Tugas Skilvul Game\Kalkulator sederhana\obj\Debug\net6.0\ref\Kalkulator sederhana.dll
